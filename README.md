@@ -7,9 +7,9 @@
 
 ### Instalación 🔧
 
-Debe clonar el repositorio, una vez hecho esto debe dirigirse a la carpeta creada y desde allí ejecutar línea de comando, una vez ahí debería ejecutar npm install tanto en la carpeta raíz 
+Debe clonar el repositorio, una vez hecho esto debe dirigirse a la carpeta creada y desde allí ejecutar línea de comando, una vez ahí debería ejecutar ```npm install``` tanto en la carpeta raíz 
 como en la carpeta frontend. De esta manera se instalaran las dependencias necesarias para poder correr la aplicación correctamente.
 
 ### Start 🛠️
 
-Ejecute npm start tanto en la carpeta raíz como en la carpeta frontend. De esta manera se levantará el backend y se abrirá la aplicación en su navegador luego de unos segundos.
+Ejecute ```npm start``` tanto en la carpeta raíz como en la carpeta frontend. De esta manera se levantará el backend y se abrirá la aplicación en su navegador luego de unos segundos.
